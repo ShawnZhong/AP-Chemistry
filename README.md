@@ -1,5 +1,5 @@
 # [AP Chemistry](https://stats.shawnzhong.com)
-Notes and Exercises on Advanced Placement Chemistry. I took notes based on the past exams collected below. You can download a PDF version of the notes   <a href="AP-Chemistry.pdf"  target="_blank" >here</a>.
+Notes and Exercises on Advanced Placement Chemistry. I took notes based on the past exams collected below. You can also download a PDF version of the notes   <a href="AP-Chemistry.pdf"  target="_blank" >here</a>.
 
 The source for the website is hosted on [GitHub](https://github.com/ShawnZhong/AP-Chemistry). 
 
