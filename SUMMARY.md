@@ -1,5 +1,3 @@
-# Your Book Title
-
 * [Sample Questions](Sample Questions.md)
 * [1999 Free Response](1999 Free Response.md)
 * [1999 Multiple Choice](1999 Multiple Choice.md)
