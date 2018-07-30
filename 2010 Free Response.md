@@ -53,8 +53,8 @@
  If Q < K the reaction will proceed to the right, towards the soluble
  ions; no precipitate will form. If Q > Ksp, the reaction will proceed
  to the left, towards the solid; precipitate will form. For the case of
- the barium sulfate solution, then we would calculate Q = \[Ba2+
- l\[S042 and compare this quantity to the K sp for barium suhte.
+ the barium sulfate solution, then we would calculate Q = Ba2+
+ lS042 and compare this quantity to the K sp for barium suhte.
  ](./media/image104.png)
  
  ![SAMPLE EXERCISE 17.16 Predicting Whether a Precipitate Forms Does a
@@ -68,11 +68,11 @@
  0.50L. The number of moles of Pb2+ in 0.10 L of 8.0 X The
  concentration of PV in the 0.50-L 8.0 X lo- (0.10 L) mol mixture is
  therefore The number of moles of SO? — 5.0 X 10-3MNaS04is in 0.40 L of
- 8.0 X 10-4m01 \[Pb2+\] = 0.50 L 5.0 X 10-3m01 (0.40 L) PbS04 and
+ 8.0 X 10-4m01 Pb2+ = 0.50 L 5.0 X 10-3m01 (0.40 L) PbS04 and
  NaN03. Like all sodium salts NaN03 is soluble, but PbS04 has a K of
  6.3 X 10—7 (Appendix D) and will precipitate if the Pb2+ and SOd —
  concentrations are high enough for Q to exceed K = 8.0 X 10-4m01 = 1.6
- X lo- M mol — 2.0 X lo- Therefore Because Q > K 2.0 X 10-3m01 \[S04 2
+ X lo- M mol — 2.0 X lo- Therefore Because Q > K 2.0 X 10-3m01 S04 2
  = 4.0 X 10-3M 0.50 L Q = = (1.6 X X 10-3) = 6.4 X 10-6 PbS04
  precipitates. ](./media/image105.png)
 

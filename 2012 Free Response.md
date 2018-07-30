@@ -9,8 +9,7 @@
 
  ![Average Bond Energies Reactants Covalent Bonds = AH(reactlon)
  Atomization State + 21-420 Products Covalent Bonds C02) 11 g kcal/ mol
- 111 lg2 -CE(Product Bond Energies) -E(Reactant Bond Energies)\]
- \_\[(444 + 384) - + 23B)\] = -\[B2B - 634\] = -1 g4 kcal/mol
+ 111 lg2 -CE(Product Bond Energies) -E(Reactant Bond Energies)(444 + 384) - + 23B) = -B2B - 634 = -1 g4 kcal/mol
  Correcting for the heat of condensation of 2 H20 product molecules
  2(-10.5) -215 kcal/mol AHO = -194 -21= ](./media/image150.png)
 

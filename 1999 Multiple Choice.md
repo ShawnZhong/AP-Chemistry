@@ -134,9 +134,7 @@ typically composed of thousands of atoms or more. ](./media/image8.png)
 ![Zeroth Order First Order Second Order Differential rate law
 Concentration vs. time Integrated rate law Straight-line plot to
 determine rate constant Relative rate vs. concentration Half-life Units
-of k, rate constant Rate = o o o o ALA\] At Time Slope = —k Time Rate —
-o o ALA\] = MA\] At Time o o —kt or Slope = —k Time \[A\], M Rate, M/S o
-o o o 2 3 M Rate, M/s 2k 2 3 Rate = 2 3 A\[A\] = At Time Slope = k Time
+of k, rate constant Rate = At Time Slope = k Time
 Rate, M/S 4 9 2 3 0.693 l/s ](./media/image22.png)
 
 # Question 54

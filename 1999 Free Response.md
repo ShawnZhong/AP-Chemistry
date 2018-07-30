@@ -6,11 +6,11 @@
  0.30 M solution of acetic acid (CH3COOH), the weak acid responsible
  for the charac- teristic odor and acidity of vinegar. 1. Our first
  step is to write the ionization equilibrium: CH3COOH(aq) H+(aq) +
- CH3COO (aq) \[16.28\] Notice that the hydrogen that ionizes is the one
+ CH3COO (aq)  16.28  Notice that the hydrogen that ionizes is the one
  attached to an oxygen atom. 2. The second step is to write the
  equilibrium-constant expression and the value for the equilibrium
  constant. Taking Ka = 1.8 X 10 5 from Table 16.2, we write 5 = 1.8 x
- 10 \[CH3COOH\] \[16.29\] 3. The third step is to express the
+ 10  CH3COOH   16.29  3. The third step is to express the
  concentrations involved in the equilibrium reac- tion. This can be
  done with a little accounting, as described in Sample Exercise 16.10.
  Because we want to find the equilibrium value for l, let's call this
@@ -25,7 +25,7 @@
  concentration (M) CH3COOH(aq) 0.30 —x (0.30 - x) H+(aq) x CH3COO (aq)
  x 4. The fourth step is to substitute the equilibrium concentrations
  into the equilibrium- constant expression and solve for x: 5 = 1.8 x
- 10 \[CH3COOH1 0.30 — x \[16.30\] This expression leads to a quadratic
+ 10  CH3COOH1 0.30 — x  16.30  This expression leads to a quadratic
  equation in x, which we can solve by using either an equation-solving
  calculator or the quadratic formula. We can simplify the problem,
  however, by noting that the value of Ka is quite small. As a result,
@@ -53,9 +53,9 @@
  assumptions after you have finished solving a problem. We have also
  made one other assumption, namely that all of the in the solution
  comes from ionization of CH3COOH. Are we justified in neglecting the
- autoionization of H20? The answer is yes—the additional \[H+\] due to
+ autoionization of H20? The answer is yes—the additional  H+  due to
  water, which would be on the order of 10 7 M, is negligible compared
- to the \[H+\] from the acid (which in this case is on the order of 10
+ to the  H+  from the acid (which in this case is on the order of 10
  3 M). In extremely precise work, or in cases involving very dilute
  solutions of acids, we would need to consider the autoionization
  ofwater more fully. ](./media/image31.png)
@@ -65,10 +65,10 @@
  ![25.00 0.100 M equivalence point 1/2 equivalence point 0.100 M NaOH
  added ](./media/image32.png)
  
- ![Solution containing weak acid Neutraliza tion reaction: \[HA\]
- decreases \[A — \] increases HA + OW A - + H20 Calculate new values of
- \[HA\] and \[A -1 Add strong base Use Ka, \[HA\], and \[A—I to
- calculate \[H +1 Equilibrium calculation pH Stoichiometry calculation
+ ![Solution containing weak acid Neutraliza tion reaction:  HA 
+ decreases  A —   increases HA + OW A - + H20 Calculate new values of
+  HA  and  A -1 Add strong base Use Ka,  HA , and  A—I to
+ calculate  H +1 Equilibrium calculation pH Stoichiometry calculation
  A Figure 17.10 strong base. Procedure for calculating pH when a weak
  acid is partially neutralized by a
  ](./media/image33.png)
@@ -99,10 +99,10 @@
 # Question 3 (b)
 
  ![Reaction Orders: The Exponents in the Rate Law The rate law for most
- reactions has the form Rate = k\[reactant 1 lmrreactant 21M ...
- \[14.8\] The exponents m and n are called reaction orders. For
+ reactions has the form Rate = kreactant 1 lmrreactant 21M ...
+ 14.8 The exponents m and n are called reaction orders. For
  example, consider again the rate law for the reaction of NH4+ with N02
- Rate = Because the exponent of \[NH4+\] is 1, the rate is first order
+ Rate = Because the exponent of NH4+ is 1, the rate is first order
  in NH4+. The rate is also first order in N02— . (The exponent 1 is not
  shown in rate laws.) The overall reaction order is the sum of the
  orders with respect to each reactant represented in the rate law.
@@ -110,16 +110,16 @@
  reaction order of 1 + 1 = 2, and the reaction is second order overall.
  The exponents in a rate law indicate how the rate is affected by each
  reactant con- centration. Because the rate at which NH4+ reacts with
- N02— depends on C NH4+\] raised to the first power, the rate doubles
- when \[NH4+l doubles, triples when r NH4+l triples, and so forth.
+ N02— depends on C NH4+ raised to the first power, the rate doubles
+ when NH4+l doubles, triples when r NH4+l triples, and so forth.
  Doubling or tripling r N02— likewise doubles or triples the rate. If a
  rate law is second order with respect to a reactant, r A 12, then
  doubling the concentration of that substance causes the reaction rate
- to quadruple because \[212 = 4, whereas tripling the concentration
- causes the rate to increase ninefold: \[31 The following are some
+ to quadruple because 212 = 4, whereas tripling the concentration
+ causes the rate to increase ninefold: 31 The following are some
  additional examples of experimentally determined rate laws: 2 N205(g)
- 4 N02(g) + 02(g) Rate = kCN205\] H2(g) + 12(g) 2 Hl(g) Rate = \[14.9\]
- \[14.10\] CHC13(g) + C12(g) CC14(g) + HC1(g) Rate = \[14.11\] Although
+ 4 N02(g) + 02(g) Rate = kCN205 H2(g) + 12(g) 2 Hl(g) Rate = 14.9
+ 14.10 CHC13(g) + C12(g) CC14(g) + HC1(g) Rate = 14.11 Although
  the exponents in a rate law are sometimes the same as the coefficients
  in the balanced equation, this is not necessarily the case, as
  Equations 14.9 and 14.11 show. For any reaction, the rate law must be
@@ -128,11 +128,7 @@
  the reaction order is fractional (as is the case with Equation 14.11)
  or even negative. ](./media/image39.png)
  
- ![Table 14.3 Elementary Reactions and Their Rate Laws Rate - Rate =
- Rate = Rate = Molecularity Unimolecular Bimolecular Bimolecular
- Termolecular Termolecular Termolecular Elementary Reaction A products
- A + A products A + B products A + A + A products A + A + B products A
- + B + C products Rate Law Rate = Rate = ](./media/image40.png)
+ ![Table 14.3 Elementary Reactions and Their Rate Laws Rate - Rate = Rate = Rate = Molecularity Unimolecular Bimolecular Bimolecular Termolecular Termolecular Termolecular Elementary Reaction A products A + A products A + B products A + A + A products A + A + B products A + B + C products Rate Law Rate = Rate = ](./media/image40.png)
 
 # Question 3 (d)
 
@@ -142,7 +138,7 @@
  in a multistep mechanism is the rate-determining step. Consider the
  reaction of N02 and CO to produce NO and CO, (Equation 14.23). Below
  225 oc, it is found experi- mentally that the rate law for this
- reaction is second order in NO, and zero order in CO: Rate = k\[N0212.
+ reaction is second order in NO, and zero order in CO: Rate = k N0212.
  Can we propose a reaction mechanism consistent with this rate law?
  Consider the two-step mechanism:\* N03(g) + NO(g) (slow) step 1:
  N02(g) + N02(g) Step 2: N03(g) + CO(g) N02(g) + C02(g) (fast) Overall:

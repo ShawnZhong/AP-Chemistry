@@ -1,5 +1,6 @@
 # Your Book Title
 
+* [Sample Questions](Sample Questions.md)
 * [1999 Free Response](1999 Free Response.md)
 * [1999 Multiple Choice](1999 Multiple Choice.md)
 * [2008 Multiple Choice](2008 Multiple Choice.md)
@@ -22,4 +23,3 @@
 * [Practice Test Multiple Choice](Practice Test Multiple Choice.md)
 * [Princeton 1 Multiple Choice](Princeton 1 Multiple Choice.md)
 * [Princeton 2 Multiple Choice](Princeton 2 Multiple Choice.md)
-* [Sample Questions](Sample Questions.md)
