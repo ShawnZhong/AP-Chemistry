@@ -3,7 +3,7 @@ Notes and Exercises on Advanced Placement Chemistry. Your comments and criticism
 
 I took notes based on the past exams collected below.
 
-You can download a PDF version   <a href="AP-Chemistry.pdf"  target="_blank" >here</a>, and please feel free to visit my website at [shawnzhong.com](https://shawnzhong.com).
+You can download a PDF version of the notes   <a href="AP-Chemistry.pdf"  target="_blank" >here</a>, and please feel free to visit my website at [shawnzhong.com](https://shawnzhong.com).
 
 # Past Exams
 
